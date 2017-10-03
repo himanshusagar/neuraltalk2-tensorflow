@@ -1,3 +1,6 @@
 *.pyc
 models
 
+/.idea/
+/glove/wiki.hi.vec
+/glove/wiki.hi.zip
